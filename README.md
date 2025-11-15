@@ -31,7 +31,7 @@
 <div align="center">
 
 <!-- Operating Systems Icons -->
-<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,android,mint,redhat,raspberrypi,azure&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,mint,redhat,raspberrypi,azure&theme=dark&perline=7" />
 
 </div>
 
