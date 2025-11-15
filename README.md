@@ -112,11 +112,10 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem-zeta-dusky.vercel.app/api/spotify?background_color=0d1117&border_color=00D4FF)](https://open.spotify.com/user/your_username)
+https://spotify-github-profile.vercel.app/api/view?uid=31wjf6t7eog2rpqkfq5mnwvajx5i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ff00&bar_color_cover=false
 
-**🎧 Currently coding to:** *Lo-fi beats & Olivia Rodrigo*  
-*"Good music makes better code"* 🎶
-
+🎧 Currently coding to: Olivia Rodrigo - vampire
+"When the code compiles but the logic is still broken..." 💀
 </div>
 
 <br>
