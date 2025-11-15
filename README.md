@@ -1,14 +1,26 @@
 <div align="center">
 
-# ⚡ ZixRead: ยินดีต้อนรับสู่ฐานปฏิบัติการของผม! 💻
+# 👑 ZixRead: ยินดีต้อนรับสู่ฐานปฏิบัติการขั้นสูงสุด! 🚀
 
 <!-- Visitor Count Badge - ใช้ชื่อ ZixRead -->
 [![Profile Views](https://komarev.com/ghpvc/?username=ZixRead&color=blue)](https://github.com/ZixRead)
 
 <!-- Typing GIF - ลูกเล่นที่ทำให้ดูมีชีวิตชีวา -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=ZixRead+is+online...;Initializing+Hack+Sequence...;Welcome+to+my+Profile!" alt="Typing GIF" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=ZixRead+is+online...;Initializing+Ultimate+Sequence...;Welcome+to+my+Profile!" alt="Typing GIF" />
 
 </div>
+
+---
+
+## 🎵 เพลงที่กำลังฟังอยู่ (Now Playing)
+
+<!-- ลูกเล่นเพลง - ต้องตั้งค่า GitHub Action หรือใช้บริการภายนอก เช่น Spotify/Last.fm -->
+<!-- โค้ดนี้เป็นตัวอย่างของ Spotify Playing Now Card -->
+<a href="https://spotify.com/user/YOUR_SPOTIFY_ID">
+  <img src="https://spotify-github-profile.vercel.app/api/view?username=YOUR_SPOTIFY_ID&theme=dark" alt="Spotify Playing" />
+</a>
+
+> **หมายเหตุ:** คุณต้องเปลี่ยน `YOUR_SPOTIFY_ID` เป็น ID Spotify ของคุณ และอาจต้องตั้งค่า GitHub Action เพื่อให้เพลงอัปเดตอัตโนมัติ
 
 ---
 
@@ -30,6 +42,13 @@
 นี่คืออาวุธหลักที่ผมใช้ในการสร้างสรรค์ผลงานครับ
 
 <img src="https://skillicons.dev/icons?i=lua,python,js,html,css,vscode,git,github,discord&perline=8" />
+
+---
+
+## 🏆 ความสำเร็จบน GitHub (My Trophies)
+
+<!-- ลูกเล่นใหม่: GitHub Trophies - แสดงความสำเร็จต่างๆ ของคุณ -->
+<img src="https://github-profile-trophy.vercel.app/?username=ZixRead&theme=radical&no-frame=true" alt="GitHub Trophies" />
 
 ---
 
@@ -57,7 +76,7 @@
 
 ## 🚀 กิจกรรมล่าสุด (Latest Activity)
 
-<!-- Dynamic Content - ต้องใช้ GitHub Action เพื่อให้ใช้งานได้จริง แต่โค้ดนี้จะแสดงผลลัพธ์ที่สวยงาม -->
+<!-- Dynamic Content - กราฟกิจกรรม -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZixRead&theme=react-dark&hide_border=true" alt="ZixRead's Activity Graph" />
 
 ---
