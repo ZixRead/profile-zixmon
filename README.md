@@ -22,9 +22,14 @@
 ### **💻 PROGRAMMING LANGUAGES**
 <div align="center">
 
-<!-- Animated Language Icons -->
+<!-- Programming Languages Icons -->
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,lua,cpp,go,rust,kotlin,swift&theme=dark&perline=10" />
+
+<br>
+
+<!-- Language Badges -->
 <a href="https://www.python.org" target="_blank">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&logoWidth=30" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
@@ -38,33 +43,18 @@
 <a href="https://www.lua.org" target="_blank">
   <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=000000" />
 </a>
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://go.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.rust-lang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://kotlinlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.swift.org/" target="_blank">
-  <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=000000" />
-</a>
-
-<br>
-
-<!-- Skill Icons Grid -->
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,lua,cpp,go,rust,kotlin,swift&theme=dark&perline=10" />
 
 </div>
 
 ### **🖥️ OPERATING SYSTEMS**
 <div align="center">
 
-<!-- OS Badges with Animations -->
+<!-- Operating Systems Icons -->
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,android,apple,bash,powershell&theme=dark&perline=7" />
+
+<br>
+
+<!-- OS Badges -->
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
 </a>
@@ -80,20 +70,78 @@
 <a href="https://archlinux.org/" target="_blank">
   <img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=000000" />
 </a>
-<a href="https://www.debian.org/" target="_blank">
-  <img src="https://img.shields.io/badge/DEBIAN-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.android.com/" target="_blank">
-  <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.apple.com/macos/" target="_blank">
-  <img src="https://img.shields.io/badge/MACOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" />
-</a>
+
+</div>
+
+### **⚡ FRAMEWORKS & LIBRARIES**
+<div align="center">
+
+<!-- Frameworks Icons -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,vue,angular,django,flutter,electron&theme=dark&perline=9" />
 
 <br>
 
-<!-- OS Icons Grid -->
-<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,android,apple,bash,powershell&theme=dark&perline=7" />
+<!-- Framework Badges -->
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
+</a>
+
+</div>
+
+### **🗄️ DATABASES**
+<div align="center">
+
+<!-- Database Icons -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite,firebase&theme=dark&perline=6" />
+
+<br>
+
+<!-- Database Badges -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://redis.io/" target="_blank">
+  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000" />
+</a>
+
+</div>
+
+### **🔧 DEVELOPMENT TOOLS**
+<div align="center">
+
+<!-- Tools Icons -->
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker,kubernetes,aws,azure,gcp,postman,figma,photoshop&theme=dark&perline=12" />
+
+<br>
+
+<!-- Tools Badges -->
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
+</a>
 
 </div>
 
