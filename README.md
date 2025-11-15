@@ -1,108 +1,113 @@
 <div align="center">
 
-<!-- Header น่ารักๆ -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=600&size=30&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=สวัสดีค่ะ+ฉัน+ZixRead✨;Student+Developer🎓;ชอบสร้างสิ่งน่ารักๆ🌸;เรียนรู้ไปด้วยกันนะคะ💖" alt="Typing Header" />
+<!-- Header สไตล์เท่แต่สบายตา -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Hey+there+I'm+ZixRead;Full+Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing Header" />
 
-<!-- GIF น่ารัก -->
-<img src="https://i.pinimg.com/originals/73/80/54/738054a46e59e9c53c4b8b9c5bca8e8c.gif" width="50%" />
-
-</div>
-
-<br>
-
-## 🎀 สิ่งที่ฉันทำได้
-
-<div align="center">
-
-### 💻 **PROGRAMMING LANGUAGES**
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,lua,java&theme=light&perline=6" />
-
-*"เริ่มจาก Python แล้วก็หลงรักการโค้ดไปเลย~"* 🐍
-
-### ⚡ **FRAMEWORKS & LIBRARIES**
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap&theme=light&perline=5" />
-
-*"ชอบ React เพราะทำ UI น่ารักๆ ได้ง่ายมาก!"* 💫
-
-### 🗄️ **DATABASES**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=light&perline=3" />
-
-*"เก็บข้อมูลให้เป็นระบบ ใช้ง่าย ไม่ปวดหัว"* 🗂️
-
-### 🖥️ **OPERATING SYSTEMS**
-<img src="https://skillicons.dev/icons?i=windows,linux&theme=light&perline=2" />
-
-*"Windows สำหรับใช้ประจำวัน, Linux สำหรับเรียนรู้"* 💻
-
-### 🔧 **DEVELOPMENT TOOLS**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps&theme=light&perline=5" />
-
-*"VS Code คือเพื่อนซี้, Git คือไดอารี่การโค้ด"* 🛠️
+<!-- GIF สบายตา -->
+<img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%" />
 
 </div>
 
 <br>
 
-## 📚 โปรเจกต์น่ารักๆ
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| โปรเจกต์ | คำอธิบาย | เทคโนโลยี |
-|---------|----------|-----------|
-| **🌸 Diary App** | แอพบันทึกประจำวันน่ารักๆ | React, JavaScript |
-| **🎵 Music Player** | เล่นเพลง Olivia Rodrigo | HTML, CSS, JS |
-| **📝 To-Do List** | จัดการการบ้านและงาน | Python, SQLite |
-| **🐱 Cat Website** | เว็บเกี่ยวกับแมวเหมียว | HTML, CSS |
+### 💻 **Programming Languages**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,lua,cpp&theme=dark&perline=6" />
+</div>
+
+### ⚡ **Frameworks & Libraries**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind&theme=dark&perline=5" />
+</div>
+
+### 🗄️ **Databases**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark&perline=4" />
+</div>
+
+### 🖥️ **Operating Systems**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu&theme=dark&perline=3" />
+</div>
+
+### 🔧 **Development Tools**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,figma&theme=dark&perline=6" />
+</div>
 
 </div>
 
 <br>
 
-## 📊 สถิติ GitHub
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=default&hide_border=true&bg_color=fff5f7&title_color=ff69b4&icon_color=ff85a1&text_color=696969" />
+<a href="https://github.com/ZixRead">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=2E8B57&icon_color=2E8B57" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixRead&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=2E8B57" />
+</a>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixRead&layout=compact&theme=default&hide_border=true&bg_color=fff5f7&title_color=ff69b4&text_color=696969" />
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZixRead&theme=algolia&hide_border=true&background=0d1117&ring=2E8B57&fire=2E8B57" />
 
 </div>
 
 <br>
 
-## 🎵 เพลงโปรด
+## 🚀 Projects
 
 <div align="center">
 
-**🎧 Olivia Rodrigo - deja vu**  
-*"ฟังเพลงนี้ตอนโค้ดแล้วอินสปายร์มากๆ!"* 💜
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=your_username" width="50%" />
+| Project | Description | Tech |
+|---------|-------------|------|
+| **TaskFlow** | Task management app | React, Node.js, MongoDB |
+| **CodeSnippets** | Share code snippets | Next.js, TypeScript |
+| **DevUtils** | Developer utilities | Python, FastAPI |
+| **Portfolio** | Personal portfolio | HTML, CSS, JS |
 
 </div>
 
 <br>
 
-## 💖 มาคุยกันนะ
+## 🎵 Currently Listening
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zixread.student@example.com)
-[![Discord](https://img.shields.io/badge/Discord-FF85A1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
-[![Twitter](https://img.shields.io/badge/Twitter-FF6B93?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZixReadStudent)
+**🎧 Lo-fi beats to code to**  
+*"Good music for better focus"* 🎶
+
+[![Spotify](https://spotify-readme-theta.vercel.app/api?scan=true&theme=dark)](https://open.spotify.com/user/your_username)
 
 </div>
 
 <br>
 
-## 🌸 เรื่องราวของฉัน
+## 📫 Let's Connect
 
 <div align="center">
 
-> *"เริ่มเรียนโค้ดเพราะอยากสร้างเว็บน่ารักๆ ให้ตัวเอง...  
-> ตอนนี้ติดใจจนหยุดไม่ได้แล้วค่ะ!"* ✨
+[![Email](https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zixread.dev@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zixread)
+[![Twitter](https://img.shields.io/badge/Twitter-2E8B57?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZixReadDev)
+[![GitHub](https://img.shields.io/badge/GitHub-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZixRead)
 
-<img src="https://i.pinimg.com/originals/85/80/0a/85800a3e402d5f5c42b7b20c7d8d6e7b.gif" width="40%" />
+</div>
+
+<br>
+
+## 💡 Development Philosophy
+
+<div align="center">
+
+> *"Write code that's easy to read, easy to maintain, and solves real problems."*
+
+<img src="https://i.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="40%" />
 
 </div>
 
@@ -110,9 +115,9 @@
 
 <div align="center">
 
-### **ขอบคุณที่แวะมาดูโปรไฟล์ฉันนะคะ** 🌸  
-*"มาเรียนรู้การโค้ดไปด้วยกันเถอะ!"* 💻✨
+### **Thanks for stopping by!** 🚀  
+*"Keep coding, keep learning."* 💻
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=footer&text=Have+a+nice+day!&fontSize=20&fontColor=ff69b4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Happy+Coding!&fontSize=20&fontColor=ffffff" />
 
 </div>
