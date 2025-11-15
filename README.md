@@ -108,18 +108,6 @@
 
 <br>
 
-## 🎵 **CODING VIBES**
-
-<div align="center">
-
-https://tthn.pythonanywhere.com?eq_color=rainbow
-
-🎵 Olivia Rodrigo - vampire
-"Coding with dark pop energy" 🧛‍♂️💻
-</div>
-
-<br>
-
 ## 🌟 **FEATURED PROJECTS**
 
 <div align="center">
