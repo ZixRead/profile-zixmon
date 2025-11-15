@@ -112,10 +112,10 @@
 
 <div align="center">
 
-https://spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ff0000&bar_color=00ff00&bar_color_cover=false
+https://spotify-readme-tthn0.vercel.app/api/spotify?background_color=0d1117&border_color=ff6b6b&bar_color=4ecdc4&bar_color_cover=false&eq_color=rainbow
 
-🌈 Rainbow coding session
-"Colors inspire creativity" 🎨
+🎵 Olivia Rodrigo - vampire
+"Coding with dark pop energy" 🧛‍♂️💻
 </div>
 
 <br>
