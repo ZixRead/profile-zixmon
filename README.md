@@ -54,23 +54,7 @@
 <div align="center">
 
 <!-- Tools Icons -->
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker,kubernetes,aws,azure,gcp,postman,figma,photoshop&theme=dark&perline=12" />
-
-<br>
-
-<!-- Tools Badges -->
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" />
-</a>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker,kubernetes,aws,azure,gcp&theme=dark&perline=12" />
 
 </div>
 
