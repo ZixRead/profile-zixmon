@@ -1,178 +1,222 @@
+# 🌸 ZixRead Dimension - สไตล์น่ารักสบายตา
+
+```markdown
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=45&duration=4000&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&height=70&lines=✨+ZixRead+Dimension+✨;🚀+Developer+Extraordinaire;💫+Automation+Creator;🎮+Anime+Enthusiast" alt="Animated Header" />
+<!-- ฮีโร่เซ็กชั่นกับอนิเมะ -->
+<img src="https://i.imgur.com/VNNp6VD.gif" width="50%" />
 
-<!-- 3D Animated GIF -->
-<img src="https://i.pinimg.com/originals/42/0a/7b/420a7b10c0e1a58b55c63220090b1df1.gif" width="60%" />
+# 🌸 สวัสดีค่า! ฉัน ZixRead 
 
-<!-- Glowing Divider -->
-<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" />
+> *"โค้ดดีต้องเหมือนรักแรก 💖 บั๊กน้อยแต่ memories เยอะ"*
+
+<!-- เอฟเฟกต์พิมพ์ข้อความ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=ยินดีต้อนรับสู่โลกของฉัน✨;นักพัฒนา+นักสร้างออโตเมชั่น;คออนิเมะตัวยง🎌;รักการเรียนรู้สิ่งใหม่ๆ💫" alt="Typing Animation" />
+</p>
+
+<!-- งูกราฟฟิกน่ารัก -->
+<img src="https://raw.githubusercontent.com/mishmanners/Mish-Manners/master/src/generated/contributions.svg" alt="Snake Game" />
 
 </div>
 
 <br>
 
-## 🎯 **About Me**
-
-> *"Code is like magic - when it works, it's amazing; when it doesn't, it's still magic, just dark magic."* 🔮
+## 🎀 เกี่ยวกับฉัน
 
 <div align="center">
 
-| Category | Details |
-|----------|---------|
-| **🎓 Role** | Full-Stack Developer & Automation Specialist |
-| **💼 Focus** | Building efficient tools and automation systems |
-| **🚀 Skills** | Lua, Python, JavaScript, API Development, Bot Systems |
-| **🌱 Learning** | Cybersecurity, AI Integration, Cloud Architecture |
-| **🎮 Hobbies** | Anime, Gaming, Music (Olivia Rodrigo fan!), Coding Challenges |
+<table>
+  <tr>
+    <td width="50%">
+    
+### 👩‍💻 สิ่งที่ฉันทำ
+- 🚀 สร้างบอทและระบบออโตเมชั่น
+- 💖 พัฒนา Tool ที่ใช้งานง่าย
+- 🌸 ออกแบบ UI/UX น่ารักๆ
+- 📚 เรียนรู้เทคโนโลยีใหม่ๆเสมอ
+
+### 🎮 สิ่งที่ฉันชอบ
+- 🍥 ดูอนิเมะ (Rom-com สุดโปรด!)
+- 🎵 ฟังเพลง Olivia Rodrigo
+- ☕ ชาไข่มุกคู่โค้ดดิ้ง
+- 🎨 วาดรูปตอนเบื่อๆ
+
+    </td>
+    <td width="50%">
+    
+### 📍 ข้อมูลเพิ่มเติม
+```python
+class ZixRead:
+    def __init__(self):
+        self.name = "ZixRead"
+        self.role = "Developer & Creator"
+        self.languages = ["Lua", "Python", "JavaScript"]
+        self.hobbies = ["Anime", "Music", "Coding"]
+        
+    def say_hello(self):
+        return "สวัสดีค่า! มาโค้ดด้วยกันนะ 💖"
+        
+me = ZixRead()
+print(me.say_hello())
+```
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br>
 
-## 🛠️ **Tech Stack & Arsenal**
+## 🛠️ สกิลและเทคโนโลยี
 
 <div align="center">
 
-### **💻 Programming Languages**
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### 💻 ภาษาที่ใช้บ่อย
+<img src="https://skillicons.dev/icons?i=lua,python,javascript,typescript,html,css&theme=light&perline=6" />
 
-### **⚡ Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🎨 เฟรมเวิร์คและไลบรารี่
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,express,flask&theme=light&perline=5" />
 
-### **🔧 Tools & Platforms**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🔧 เครื่องมือที่ชอบ
+<img src="https://skillicons.dev/icons?i=vscode,git,github,discord,figma,ps&theme=light&perline=6" />
 
 </div>
 
 <br>
 
-## 📊 **GitHub Analytics**
+## 📊 สถิติ GitHub
 
 <div align="center">
 
-<!-- Stats Grid -->
+<!-- การ์ดสถิติหลัก -->
 <a href="https://github.com/ZixRead">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixRead&layout=compact&langs_count=8&theme=radical&border_radius=15&hide_border=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff5f7&title_color=ff69b4&icon_color=ff85a1&text_color=696969&border_radius=15" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixRead&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff5f7&title_color=ff69b4&text_color=696969&border_radius=15" />
 </a>
 
-<br>
+<br><br>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZixRead&theme=radical&hide_border=true&border_radius=15&fire=DD2727&ring=DD2727" height="180em"/>
+<!-- สตรีค -->
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZixRead&theme=rose-pine&hide_border=true&background=FFF5F7&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border_radius=15" />
 
 </div>
 
 <br>
 
-## 🎵 **Now Playing**
+## 🎵 เพลงที่กำลังฟัง
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=7B68EE)](https://open.spotify.com/user/your_username)
+🎧 **Olivia Rodrigo - vampire**  
+*"เพราะโค้ดบางครั้งก็ดูดเลือดเหมือนแวมไพร์เลยย~"* 🧛‍♀️
 
-🎧 **Currently jamming to Olivia Rodrigo**  
-*"drivers license" - because coding and heartbreak both need good background music* 💜
+<!--  Spotify Badge -->
+[![Spotify](https://spotify-readme-theta.vercel.app/api?scan=true&theme=rose)](https://open.spotify.com/user/your_username)
 
 </div>
 
 <br>
 
-## 🏆 **Achievements**
+## 🌸 โปรเจกต์น่ารักๆ
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ZixRead&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+| โปรเจกต์ | คำอธิบาย | เทคโนโลยี |
+|---------|----------|-----------|
+| **🌸 Sakura Bot** | บอทดิสคอร์ดน่ารักสไตล์ญี่ปุ่น | Lua, Discord.js |
+| **🍡 Mochi Tools** | ชุดเครื่องมือพัฒนาแบบน่ารัก | Python, React |
+| **🎀 Anime Helper** | ช่วยจัดการลิสต์อนิเมะ | JavaScript, MongoDB |
 
 </div>
 
 <br>
 
-## 🔥 **Recent Activity**
-
-<!--START_SECTION:activity-->
-1. 🎉 Created new automation bot for Discord
-2. 🔥 Pushed updates to main project repository  
-3. 🚀 Deployed new API endpoints
-4. 💫 Fixed critical bugs in production
-5. 📚 Learning new cybersecurity techniques
-<!--END_SECTION:activity-->
-
-<br>
-
-## 🌟 **Featured Projects**
+## 🏆 ความสำเร็จ
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[🤖 AutoBot Pro](https://github.com/ZixRead/AutoBot-Pro)** | Advanced Discord automation system | Lua, Node.js, API |
-| **[⚡ QuickDeploy](https://github.com/ZixRead/QuickDeploy)** | One-click deployment solution | Python, Docker, CI/CD |
-| **[🎮 AnimeTracker](https://github.com/ZixRead/AnimeTracker)** | Personal anime watchlist manager | React, TypeScript, MongoDB |
+<img src="https://github-profile-trophy.vercel.app/?username=ZixRead&theme=pastel&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
 <br>
 
-## 📈 **Contribution Graph**
+## 📝 กิจกรรมล่าสุด
+
+<!-- ACTIVITY:START -->
+- 🌸 อัพเดทบอท Sakura เวอร์ชั่นใหม่
+- 🎀 เพิ่มฟีเจอร์น่ารักๆให้ Mochi Tools
+- 📚 กำลังเรียน React Advanced
+- 💖 แก้บั๊กให้เพื่อนในชุมชน
+<!-- ACTIVITY:END -->
+
+<br>
+
+## 🎨 กราฟกิจกรรม
 
 <div align="center">
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ZixRead&theme=react-dark&hide_border=true&area=true&custom_title=ZixRead%27s%20Coding%20Journey)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZixRead&theme=rose&hide_border=true&area=true&custom_title=เส้นทางการโค้ดของฉัน🌸)
 
 </div>
 
 <br>
 
-## 💬 **Let's Connect!**
+## 💌 ติดต่อฉันได้ที่นี่
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZixReadDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zixread)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zixread.dev@example.com)
+[![Discord](https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Twitter](https://img.shields.io/badge/Twitter-FF85A1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZixReadDev)
+[![Gmail](https://img.shields.io/badge/Gmail-FF6B93?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zixread.dev@example.com)
+[![Blog](https://img.shields.io/badge/Blog-FF69B4?style=for-the-badge&logo=medium&logoColor=white)](https://zixread-blog.vercel.app)
 
 </div>
 
 <br>
 
-## 🎨 **Fun Facts & Anime Corner**
+## 🍥 มุมอนิเมะ
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/85/80/0a/85800a3e402d5f5c42b7b20c7d8d6e7b.gif" width="40%">
+<img src="https://i.imgur.com/8ZgYLk4.gif" width="40%">
 
-### **Did you know?**
-- 🍜 I can code while watching anime simultaneously
-- 🎵 Olivia Rodrigo's songs are my coding soundtrack
-- 🔧 I automate everything that can be automated
-- ☕ Coffee + Code = Perfect Day
+### 🎀 อนิเมะที่ชอบตอนนี้
+- 🍓 **โฮริมิยะ** - โรแมนติกน่ารักมากก
+- 🌸 **คาเงะยามะ** - บาสketบอลชายเหงๆ
+- 🎵 **โบคุโนะฮีโร่** - ฮีโร่+ดนตรี=เป๊ะ
+- 🍜 **สไปซ์แอนด์วูล์ฟ** - อาหารการกินฟินเวอร์
 
 </div>
 
 <br>
 
----
+## ✨ ข้อคิดดีๆ
 
 <div align="center">
 
-### **Thanks for visiting my profile!** 🚀  
-*"May your code compile on the first try and your coffee stay warm"* ☕💻
+> *"บางครั้งบั๊กที่แก้ยากที่สุด... ก็แค่ต้องการการพักผ่อนสักนิดนึงเท่านั้นเอง"* 💤
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=false"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=footer&text=ขอบคุณที่แวะมานะค่า🌸&fontSize=20&fontColor=ff69b4&animation=twinkling" />
 
 </div>
+
+<!-- เอฟเฟกต์ดาวตก -->
+<div align="center">
+  
+✨ *Made with 💖 and lots of bubble tea* 🧋
+
+</div>
+```
+
+## 🌸 **สิ่งที่ทำให้พิเศษ:**
+
+1. **🎀 สไตล์น่ารักสบายตา** - ใช้โทนสีพาสเทล น่ารัก
+2. **🍥 ภาษาธรรมชาติ** - เขียนแบบเพื่อนคุยกัน ไม่ทางการ
+3. **🌸 เอฟเฟกต์น่ารัก** - อนิเมะ GIFs, การ์ดโค้งมน
+4. **💖 เนื้อหาเป็นไทย** - อธิบายเข้าใจง่าย เป็นกันเอง
+5. **🎨 จัดวางสมดุล** - ไม่เยินจนตาเบลอ
