@@ -110,13 +110,13 @@
 
 ## 🎵 **CODING VIBES**
 
-<div align="center">
+<div align="center"><!-- Solution 1: Simple Spotify Badge --><a href="https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2?si=3a9f8c9a0b8d4a1c"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /> </a>
 
-https://spotify-github-profile.vercel.app/api/view?uid=31wjf6t7eog2rpqkfq5mnwvajx5i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ff00&bar_color_cover=false
+🎧 Now Playing: Olivia Rodrigo - vampire
+🔥 Coding Mix: Billie Eilish, Imagine Dragons, Lo-fi beats
 
-🎧 Currently coding to: Olivia Rodrigo - vampire
-"When the code compiles but the logic is still broken..." 💀
-</div>
+"Good music fuels great code" 🎶
+<!-- Solution 2: Custom Music Card --><table> <tr> <td> <img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" width="80" style="border-radius: 10px;"> </td> <td> <strong>Olivia Rodrigo - vampire</strong><br> <em>GUTS (2023)</em><br> ⭐⭐⭐⭐⭐ </td> </tr> </table></div>
 
 <br>
 
