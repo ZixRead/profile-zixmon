@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=ZIXREAD+DIMENSION;FULL+STACK+DEVELOPER;CLOUD+ENGINEER;PROBLEM+SOLVER" alt="Typing Header" />
 
 <!-- Animated Tech Grid -->
-<img src="807b5c4b02e765bb4930b7c66662ef4b.gif" width="80%" />
+<img src="807b5c4b02e765bb4930b7c66662ef4b.gif" width="50%" />
 
 <!-- Glowing Divider -->
 <div align="center">
