@@ -1,100 +1,99 @@
 <div align="center">
 
-# 👑 ZixRead: ยินดีต้อนรับสู่ฐานปฏิบัติการขั้นสูงสุด! 🚀
+# 👑 Welcome to ZixRead Universe 🌌  
+### ⚡ Developer • Creator • Automation Wizard ⚡
 
-<!-- Visitor Count Badge - ใช้ชื่อ ZixRead -->
-[![Profile Views](https://komarev.com/ghpvc/?username=ZixRead&color=blue)](https://github.com/ZixRead)
-
-<!-- Typing GIF - ลูกเล่นที่ทำให้ดูมีชีวิตชีวา -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=ZixRead+is+online...;Initializing+Ultimate+Sequence...;Welcome+to+my+Profile!" alt="Typing GIF" />
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=ZixRead+is+Booting...;Initializing+Hyper+Profile...;Loading+Modules...;Welcome+to+my+World!+🚀" />
 
 ---
 
-## 🎵 เพลงที่กำลังฟังอยู่ (Now Playing)
+## 🔥 Profile Status
 
-<!-- ลูกเล่นเพลง - ต้องตั้งค่า GitHub Action หรือใช้บริการภายนอก เช่น Spotify/Last.fm -->
-<!-- โค้ดนี้เป็นตัวอย่างของ Spotify Playing Now Card -->
-<a href="https://spotify.com/user/3FyA6R41UYLDXfRRcaOhh5">
-  <img src="https://spotify-github-profile.vercel.app/api/view?username=3FyA6R41UYLDXfRRcaOhh5&theme=dark" alt="Spotify Playing" />
+![Profile Views](https://komarev.com/ghpvc/?username=ZixRead&color=brightgreen&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ZixRead?style=for-the-badge&color=yellow)
+![Stars](https://img.shields.io/github/stars/ZixRead?style=for-the-badge&color=yellow)
+
+---
+
+# 🎵 Now Playing on Spotify  
+<a href="https://spotify.com/user/YOUR_SPOTIFY_ID">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
 </a>
 
-> **หมายเหตุ:** คุณต้องเปลี่ยน `YOUR_SPOTIFY_ID` เป็น ID Spotify ของคุณ และอาจต้องตั้งค่า GitHub Action เพื่อให้เพลงอัปเดตอัตโนมัติ
+---
+
+# 💫 About Me
+
+✨ ผมคือ **ZixRead** ผู้สร้างสรรค์โค้ดและระบบอัตโนมัติ ที่เชื่อว่า  
+"ถ้าคุณทำให้โค้ดฉลาดขึ้น… ชีวิตคุณก็ง่ายขึ้น"
+
+- 🔭 **ทำอะไรอยู่:** พัฒนา Lua Tools / Python Automations  
+- 🌱 **กำลังเรียนรู้:** ระบบความปลอดภัยขั้นสูง + AI Tools  
+- 🧠 **ความถนัด:** วิเคราะห์โค้ด, ปรับแต่งระบบ, ทำให้ทุกอย่างเร็วขึ้น  
+- ⚡ **ชอบทำ:** Automation | Data Tracking | Bot Development  
+- 💬 **ถามผมได้เรื่อง:** Lua, Python, JavaScript, API, Discord Bot  
 
 ---
 
-## 💡 เกี่ยวกับผม (About ZixRead)
+# 🛠️ Tech Arsenal (My Full Tech Stack)
 
-ผมคือ **ZixRead** นักพัฒนาและนักสำรวจด้านเทคโนโลยีที่หลงใหลในการสร้างสรรค์เครื่องมือและยูทิลิตี้ที่ก้าวข้ามขีดจำกัด ผมเชื่อในพลังของโค้ดที่จะสร้างสรรค์สิ่งใหม่ๆ และแก้ปัญหาที่ซับซ้อน
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=lua,python,js,ts,php,java,cpp,go,rust&perline=9" />
 
--   🔭 **ปัจจุบัน:** กำลังพัฒนาและดูแลโปรเจกต์โอเพนซอร์สที่เกี่ยวข้องกับ Lua และ Python
--   🌱 **กำลังเรียนรู้:** เทคนิคการเขียนโค้ดที่ปลอดภัยและมีประสิทธิภาพสูง
--   💬 **ติดต่อผม:** หากมีคำถามเกี่ยวกับสคริปต์, Lua, หรือเทคโนโลยีใหม่ๆ
--   ⚡ **ความสนใจ:** การสร้างเครื่องมืออัตโนมัติ (Automation Tools) และการวิเคราะห์ข้อมูล
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,aws,gcp,linux,docker,nginx&perline=9" />
 
----
+### 🎨 Web & UI
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap,figma&perline=9" />
 
-<div align="center">
-
-## 🛠️ ทักษะและเครื่องมือ (My Tech Stack)
-
-นี่คืออาวุธหลักที่ผมใช้ในการสร้างสรรค์ผลงานครับ
-
-<img src="https://skillicons.dev/icons?i=lua,python,js,html,css,vscode,git,github,discord&perline=8" />
+### 🤖 Automation & Bots
+<img src="https://skillicons.dev/icons?i=discord,githubactions,regex&perline=9" />
 
 ---
 
-## 🏆 ความสำเร็จบน GitHub (My Trophies)
+# 🏆 GitHub Achievements
 
-<!-- ลูกเล่นใหม่: GitHub Trophies - แสดงความสำเร็จต่างๆ ของคุณ -->
-<img src="https://github-profile-trophy.vercel.app/?username=ZixRead&theme=radical&no-frame=true" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ZixRead&theme=radical&no-frame=true&row=2&column=4" />
 
 ---
 
-## 🔥 สถิติการโค้ดดิ้ง (My GitHub Stats)
-
-มาดูกันว่าผมทุ่มเทให้กับการโค้ดดิ้งแค่ไหน! **(ทั้งหมดนี้ใช้ชื่อ ZixRead)**
+# 📊 GitHub Stats Center
 
 <table>
   <tr>
     <td>
-      <!-- GitHub Stats Card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=radical&locale=th&hide_border=true" alt="ZixRead's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
     </td>
     <td>
-      <!-- Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/api/top-langs/?username=ZixRead&layout=compact&theme=radical&locale=th&hide_border=true" alt="ZixRead's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixRead&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
 
-<!-- GitHub Streak - ลูกเล่นยอดนิยม -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZixRead&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZixRead&theme=radical&hide_border=true" />
 
 ---
 
-## 🚀 กิจกรรมล่าสุด (Latest Activity)
+# ⚡ Activity Feed
 
-<!-- Dynamic Content - กราฟกิจกรรม -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZixRead&theme=react-dark&hide_border=true" alt="ZixRead's Activity Graph" />
-
----
-
-## 🤝 เชื่อมต่อกับผม (Connect with Me)
-
-| แพลตฟอร์ม | ลิงก์ |
-| :--- | :--- |
-| **Discord** | `ZixRead#1234` (ตัวอย่าง) |
-| **Twitter** | [@ZixReadDev](https://twitter.com/ZixReadDev) (ตัวอย่าง) |
-| **Email** | `zixread.dev@example.com` (ตัวอย่าง) |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZixRead&theme=react-dark&hide_border=true&area=true" />
 
 ---
 
-<!-- Custom GIF/Image - ตัวอย่างการใส่รูปภาพหรือ GIF จากลิงก์ -->
-<img src="https://media.giphy.com/media/qgQUl7y3A5h5l305y2/giphy.gif" width="50%" alt="Coding GIF" />
+# 🌐 Connect with Me
 
-<br>
-✨ ขอบคุณที่แวะมาเยี่ยมชมโปรไฟล์ของผมนะครับ! ✨
+| Platform | Link |
+|---------|------|
+| Discord | `ZixRead#1234` |
+| Twitter | [@ZixReadDev](https://twitter.com/ZixReadDev) |
+| Email | `zixread.dev@example.com` |
+
+---
+
+<img src="https://media.giphy.com/media/qgQUl7y3A5h5l305y2/giphy.gif" width="55%" />
+
+<br><br>
+
+# ✨ Thanks for Visiting My Profile!
 
 </div>
