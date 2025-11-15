@@ -109,20 +109,14 @@
 <br>
 
 ## 🎵 **CODING VIBES**
-<div align="center"><!-- Animated Music Player --><div style="background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%); padding: 20px; border-radius: 20px; border: 2px solid #00D4FF; box-shadow: 0 0 30px rgba(0, 212, 255, 0.3); max-width: 400px; margin: 0 auto;"><!-- Album Art with Rotation --><img src="https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d" width="150" style="border-radius: 15px; border: 3px solid #00D4FF; animation: float 3s ease-in-out infinite;" />
+<div align="center">
 
+https://spotify-readme-taupe.vercel.app/api?theme=dark&background_color=0d1117&border_color=rainbow&bar_color=rainbow&bar_color_cover=false
 
-
-<!-- Song Info --><div style="text-align: center;"> <h3 style="color: #00D4FF; margin: 0; font-size: 1.4em;">🎵 vampire</h3> <p style="color: #ffffff; margin: 5px 0; font-size: 1.1em;">Olivia Rodrigo</p> <p style="color: #888; margin: 0; font-size: 0.9em;">GUTS • 2023</p> </div>
-<!-- Music Controls --><div style="display: flex; justify-content: center; gap: 15px; align-items: center;"> <div style="color: #00D4FF;">⏮</div> <div style="color: #00D4FF; font-size: 1.5em;">⏸</div> <div style="color: #00D4FF;">⏭</div> </div>
-<!-- Progress Bar --><div style="background: #2a2a2a; height: 4px; border-radius: 2px; overflow: hidden;"> <div style="background: #00D4FF; height: 100%; width: 65%; animation: pulse 2s infinite;"></div> </div><div style="display: flex; justify-content: space-between; color: #888; font-size: 0.8em; margin-top: 5px;"> <span>1:23</span> <span>3:39</span> </div></div>
-<!-- Visualizer --><div style="display: flex; justify-content: center; gap: 3px; height: 30px; align-items: end; margin: 20px 0;"> <div style="width: 4px; background: #00D4FF; height: 8px; animation: visualizer 1s infinite alternate;"></div> <div style="width: 4px; background: #00D4FF; height: 15px; animation: visualizer 1.2s infinite alternate;"></div> <div style="width: 4px; background: #00D4FF; height: 22px; animation: visualizer 0.8s infinite alternate;"></div> <div style="width: 4px; background: #00D4FF; height: 18px; animation: visualizer 1.1s infinite alternate;"></div> <div style="width: 4px; background: #00D4FF; height: 12px; animation: visualizer 1.3s infinite alternate;"></div> <div style="width: 4px; background: #00D4FF; height: 25px; animation: visualizer 0.9s infinite alternate;"></div> <div style="width: 4px; background: #00D4FF; height: 10px; animation: visualizer 1.4s infinite alternate;"></div> </div>
-
-https://img.shields.io/badge/%F0%9F%8E%A7_Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000
-
-"Coding with vampire energy 🧛‍♂️💻"
-</div><style> @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } } @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.7; } } @keyframes visualizer { 0% { height: 5px; } 100% { height: 25px; } } </style>
+🌈 Coding with rainbow vibes
+"Colors make the code more magical" ✨
 </div>
+
 <br>
 
 ## 🌟 **FEATURED PROJECTS**
