@@ -109,12 +109,13 @@
 <br>
 
 ## 🎵 **CODING VIBES**
+
 <div align="center">
 
-https://spotify-readme-taupe.vercel.app/api?theme=dark&background_color=0d1117&border_color=rainbow&bar_color=rainbow&bar_color_cover=false
+https://spotify-readme.vercel.app/api/spotify?background_color=0d1117&border_color=ff0000&bar_color=00ff00&bar_color_cover=false
 
-🌈 Coding with rainbow vibes
-"Colors make the code more magical" ✨
+🌈 Rainbow coding session
+"Colors inspire creativity" 🎨
 </div>
 
 <br>
