@@ -1,293 +1,118 @@
 <div align="center">
 
-<!-- ANIMATED MATRIX STYLE HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=ZIXREAD+DIMENSION;FULL+STACK+DEVELOPER;AUTOMATION+EXPERT;CYBER+SECURITY+ENTHUSIAST;CLOUD+ARCHITECT" alt="Matrix Header" />
+<!-- Header น่ารักๆ -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=600&size=30&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=สวัสดีค่ะ+ฉัน+ZixRead✨;Student+Developer🎓;ชอบสร้างสิ่งน่ารักๆ🌸;เรียนรู้ไปด้วยกันนะคะ💖" alt="Typing Header" />
 
-<!-- CYBERPUNK ANIMATION -->
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
-
-<!-- GLOWING TECH DIVIDER -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+<!-- GIF น่ารัก -->
+<img src="https://i.pinimg.com/originals/73/80/54/738054a46e59e9c53c4b8b9c5bca8e8c.gif" width="50%" />
 
 </div>
 
 <br>
 
-## 🚀 **TECHNICAL ARSENAL**
+## 🎀 สิ่งที่ฉันทำได้
 
 <div align="center">
 
-### **💻 PROGRAMMING LANGUAGES**
-<div align="center">
+### 💻 **PROGRAMMING LANGUAGES**
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,lua,java&theme=light&perline=6" />
 
-<img src="https://skillicons.dev/icons?i=lua,python,javascript,typescript,cpp,go,rust,java,kotlin,swift&theme=dark&perline=10" />
+*"เริ่มจาก Python แล้วก็หลงรักการโค้ดไปเลย~"* 🐍
 
-</div>
+### ⚡ **FRAMEWORKS & LIBRARIES**
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap&theme=light&perline=5" />
 
-### **⚡ FRAMEWORKS & LIBRARIES**
-<div align="center">
+*"ชอบ React เพราะทำ UI น่ารักๆ ได้ง่ายมาก!"* 💫
 
-<img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,express,django,fastapi,spring,flutter,electron&theme=dark&perline=10" />
+### 🗄️ **DATABASES**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=light&perline=3" />
 
-</div>
+*"เก็บข้อมูลให้เป็นระบบ ใช้ง่าย ไม่ปวดหัว"* 🗂️
 
-### **🗄️ DATABASES**
-<div align="center">
+### 🖥️ **OPERATING SYSTEMS**
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=light&perline=2" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,elasticsearch&theme=dark&perline=6" />
+*"Windows สำหรับใช้ประจำวัน, Linux สำหรับเรียนรู้"* 💻
 
-</div>
+### 🔧 **DEVELOPMENT TOOLS**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps&theme=light&perline=5" />
 
-### **☁️ CLOUD & DEVOPS**
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,githubactions,jenkins,nginx&theme=dark&perline=10" />
-
-</div>
-
-### **🖥️ OPERATING SYSTEMS**
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,android,apple&theme=dark&perline=5" />
-
-<!-- Additional OS Badges -->
-<br>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-
-</div>
-
-### **🔧 DEVELOPMENT TOOLS**
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,gitlab,postman,figma,photoshop,illustrator,xd&theme=dark&perline=10" />
-
-</div>
-
-### **🎨 FRONTEND TECHNOLOGIES**
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,webpack,babel&theme=dark&perline=8" />
-
-</div>
-
-### **📱 MOBILE DEVELOPMENT**
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,xd,figma&theme=dark&perline=5" />
-
-</div>
-
-### **🛡️ SECURITY TOOLS**
-<div align="center">
-
-<img src="https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
-
-</div>
+*"VS Code คือเพื่อนซี้, Git คือไดอารี่การโค้ด"* 🛠️
 
 </div>
 
 <br>
 
-## 📊 **GITHUB ANALYTICS DASHBOARD**
+## 📚 โปรเจกต์น่ารักๆ
 
 <div align="center">
 
-<!-- MAIN STATS CARDS -->
-<a href="https://github.com/ZixRead">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixRead&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&langs_count=10" />
-</a>
-
-<br><br>
-
-<!-- STREAK STATS -->
-<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=ZixRead&theme=vision-friendly-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" />
+| โปรเจกต์ | คำอธิบาย | เทคโนโลยี |
+|---------|----------|-----------|
+| **🌸 Diary App** | แอพบันทึกประจำวันน่ารักๆ | React, JavaScript |
+| **🎵 Music Player** | เล่นเพลง Olivia Rodrigo | HTML, CSS, JS |
+| **📝 To-Do List** | จัดการการบ้านและงาน | Python, SQLite |
+| **🐱 Cat Website** | เว็บเกี่ยวกับแมวเหมียว | HTML, CSS |
 
 </div>
 
 <br>
 
-## 🏆 **ACHIEVEMENTS & TROPHIES**
+## 📊 สถิติ GitHub
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ZixRead&theme=matrix&no-frame=true&row=3&column=6&margin-w=10&margin-h=10)
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=default&hide_border=true&bg_color=fff5f7&title_color=ff69b4&icon_color=ff85a1&text_color=696969" />
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixRead&layout=compact&theme=default&hide_border=true&bg_color=fff5f7&title_color=ff69b4&text_color=696969" />
 
 </div>
 
 <br>
 
-## 🔥 **CURRENT PROJECTS**
+## 🎵 เพลงโปรด
 
 <div align="center">
 
-| Project | Status | Tech Stack | Description |
-|---------|---------|------------|-------------|
-| **⚡ CyberShield** | ![Active](https://img.shields.io/badge/ACTIVE-00ff00?style=flat-square) | <img src="https://skillicons.dev/icons?i=python,go,react,aws&theme=dark" width="80"/> | Advanced cybersecurity monitoring platform |
-| **🤖 AutoMatrix** | ![Development](https://img.shields.io/badge/DEVELOPMENT-yellow?style=flat-square) | <img src="https://skillicons.dev/icons?i=lua,nodejs,mongodb&theme=dark" width="60"/> | Enterprise automation framework |
-| **🌐 CloudForge** | ![Production](https://img.shields.io/badge/PRODUCTION-00ff00?style=flat-square) | <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform&theme=dark" width="60"/> | Cloud infrastructure management |
-| **🔐 SecureVault** | ![Beta](https://img.shields.io/badge/BETA-blue?style=flat-square) | <img src="https://skillicons.dev/icons?i=rust,react,postgresql&theme=dark" width="60"/> | Encrypted data storage solution |
+**🎧 Olivia Rodrigo - deja vu**  
+*"ฟังเพลงนี้ตอนโค้ดแล้วอินสปายร์มากๆ!"* 💜
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=your_username" width="50%" />
 
 </div>
 
 <br>
 
-## 📈 **ACTIVITY GRAPH**
+## 💖 มาคุยกันนะ
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZixRead&theme=react-dark&hide_border=true&area=true&custom_title=ZixRead%27s%20Coding%20Activity&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff)
+[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zixread.student@example.com)
+[![Discord](https://img.shields.io/badge/Discord-FF85A1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
+[![Twitter](https://img.shields.io/badge/Twitter-FF6B93?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZixReadStudent)
 
 </div>
 
 <br>
 
-## 🎵 **DEVELOPER SOUNDTRACK**
+## 🌸 เรื่องราวของฉัน
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ff00&bar_color_cover=false)](https://open.spotify.com/user/your_spotify_id)
+> *"เริ่มเรียนโค้ดเพราะอยากสร้างเว็บน่ารักๆ ให้ตัวเอง...  
+> ตอนนี้ติดใจจนหยุดไม่ได้แล้วค่ะ!"* ✨
 
-**🎧 Currently Coding To:** Olivia Rodrigo - brutal  
-*"When the code compiles but the logic is still broken..."* 💀
-
-</div>
-
-<br>
-
-## 🛡️ **SECURITY & PENETRATION TESTING**
-
-<div align="center">
-
-### **🔍 Security Tools Expertise**
-<div align="center">
-
-| Tool | Level | Experience |
-|------|-------|------------|
-| **Metasploit** | ![Advanced](https://img.shields.io/badge/ADVANCED-00ff00?style=flat-square) | 3+ years |
-| **Wireshark** | ![Expert](https://img.shields.io/badge/EXPERT-00ff00?style=flat-square) | 4+ years |
-| **Burp Suite** | ![Advanced](https://img.shields.io/badge/ADVANCED-00ff00?style=flat-square) | 3+ years |
-| **Nmap** | ![Expert](https://img.shields.io/badge/EXPERT-00ff00?style=flat-square) | 5+ years |
+<img src="https://i.pinimg.com/originals/85/80/0a/85800a3e402d5f5c42b7b20c7d8d6e7b.gif" width="40%" />
 
 </div>
-
-</div>
-
-<br>
-
-## 🌐 **CERTIFICATIONS & LEARNING**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes_CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA_Security+-D22128?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_PCAP-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CEH-FF6C37?style=for-the-badge&logo=ceh&logoColor=white" />
-
-</div>
-
-<br>
-
-## 💬 **RECENT DEVELOPMENT ACTIVITY**
-
-<!--START_SECTION:activity-->
-
-🔄 SYSTEM UPDATE: Enhanced AutoMatrix v2.1.3
-🔧 CODE REVIEW: Security patch for CyberShield
-🚀 DEPLOYMENT: CloudForge production update
-📚 LEARNING: Advanced Kubernetes patterns
-🐛 BUG FIX: Memory leak in SecureVault
-💻 FEATURE: Added ML capabilities to CyberShield
-🔒 SECURITY: Implemented zero-trust architecture
-📊 MONITORING: Enhanced logging system
-text
-
-<!--END_SECTION:activity-->
-
-<br>
-
-## 🌟 **CONTRIBUTION METRICS**
-
-<div align="center">
-
-| Metric | This Week | This Month | All Time |
-|--------|------------|-------------|-----------|
-| **Commits** | `127` | `483` | `2,847` |
-| **PRs** | `15` | `42` | `356` |
-| **Issues** | `8` | `27` | `189` |
-| **Stars** | `23` | `89` | `1,247` |
-| **Repositories** | `5` | `18` | `67` |
-
-</div>
-
-<br>
-
-## 🔗 **CONNECT WITH ME**
-
-<div align="center">
-
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.gg/zixread)
-[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/ZixReadDev)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/zixread)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/ZixRead)
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:zixread@protonmail.com)
-[![Telegram](https://skillicons.dev/icons?i=telegram&theme=dark)](https://t.me/zixread)
-
-</div>
-
-<br>
-
-## 📚 **TECH BLOG & WRITINGS**
-
-<div align="center">
-
-[![Medium](https://skillicons.dev/icons?i=medium&theme=dark)](https://medium.com/@zixread)
-[![Dev.to](https://skillicons.dev/icons?i=devto&theme=dark)](https://dev.to/zixread)
-[![Hashnode](https://skillicons.dev/icons?i=hashnode&theme=dark)](https://zixread.hashnode.dev)
-
-</div>
-
-<br>
-
-## 💻 **DAILY DEVELOPMENT SETUP**
-
-<div align="center">
-
-### **🖥️ Primary Machine**
-- **OS:** Arch Linux + Windows 11 Dual Boot
-- **CPU:** AMD Ryzen 9 5950X
-- **RAM:** 64GB DDR4
-- **GPU:** NVIDIA RTX 3080
-- **Storage:** 2TB NVMe SSD
-
-### **💡 Development Environment**
-- **Editor:** VS Code + Neovim
-- **Terminal:** Windows Terminal + Zsh
-- **Theme:** Dracula Dark
-- **Font:** Fira Code Nerd Font
-
-</div>
-
-<br>
 
 ---
 
 <div align="center">
 
-### **⚡ "CODE LIKE THE WORLD DEPENDS ON IT... BECAUSE SOMETIMES IT DOES"** ⚡
+### **ขอบคุณที่แวะมาดูโปรไฟล์ฉันนะคะ** 🌸  
+*"มาเรียนรู้การโค้ดไปด้วยกันเถอะ!"* 💻✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&reversal=false&text=SYSTEM%20ONLINE&fontSize=30&fontColor=ffffff&animation=twinkling" />
-
-**🚀 PUSHING THE BOUNDARIES OF TECHNOLOGY**
-
-*Last Updated: ${new Date().toLocaleDateString()}*
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=footer&text=Have+a+nice+day!&fontSize=20&fontColor=ff69b4" />
 
 </div>
