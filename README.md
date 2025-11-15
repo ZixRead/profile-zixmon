@@ -16,7 +16,7 @@
 
 <!-- ลูกเล่นเพลง - ต้องตั้งค่า GitHub Action หรือใช้บริการภายนอก เช่น Spotify/Last.fm -->
 <!-- โค้ดนี้เป็นตัวอย่างของ Spotify Playing Now Card -->
-<a href="https://spotify.com/user/YOUR_SPOTIFY_ID">
+<a href="https://spotify.com/user/3FyA6R41UYLDXfRRcaOhh5">
   <img src="https://spotify-github-profile.vercel.app/api/view?username=3FyA6R41UYLDXfRRcaOhh5&theme=dark" alt="Spotify Playing" />
 </a>
 
