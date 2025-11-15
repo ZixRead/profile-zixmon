@@ -25,25 +25,6 @@
 <!-- Programming Languages Icons -->
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,lua,cpp,go,rust,kotlin,swift&theme=dark&perline=10" />
 
-<br>
-
-<!-- Language Badges -->
-<a href="https://www.python.org" target="_blank">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.java.com" target="_blank">
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.lua.org" target="_blank">
-  <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=000000" />
-</a>
-
 </div>
 
 ### **🖥️ OPERATING SYSTEMS**
@@ -51,8 +32,6 @@
 
 <!-- Operating Systems Icons -->
 <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,android,mint,redhat,raspberrypi,azure&theme=dark&perline=7" />
-
-<br>
 
 </div>
 
@@ -62,22 +41,6 @@
 <!-- Frameworks Icons -->
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,vue,angular,django,flutter,electron&theme=dark&perline=9" />
 
-<br>
-
-<!-- Framework Badges -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
-</a>
-
 </div>
 
 ### **🗄️ DATABASES**
@@ -85,23 +48,6 @@
 
 <!-- Database Icons -->
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite,firebase&theme=dark&perline=6" />
-
-<br>
-
-<!-- Database Badges -->
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://redis.io/" target="_blank">
-  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000" />
-</a>
-
 </div>
 
 ### **🔧 DEVELOPMENT TOOLS**
