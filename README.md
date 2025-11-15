@@ -112,7 +112,7 @@
 
 <div align="center">
 
-[https://spotify-readme-tthn0.vercel.app/api/spotify?background_color=0d1117&border_color=ff6b6b&bar_color=4ecdc4&bar_color_cover=false&eq_color=rainbow](https://tthn.pythonanywhere.com?eq_color=rainbow)
+https://tthn.pythonanywhere.com?eq_color=rainbow
 
 🎵 Olivia Rodrigo - vampire
 "Coding with dark pop energy" 🧛‍♂️💻
