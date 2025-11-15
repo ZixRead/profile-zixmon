@@ -50,26 +50,9 @@
 <div align="center">
 
 <!-- Operating Systems Icons -->
-<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,android,apple,bash,powershell&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,android,mint,redhat,raspberrypi,azure&theme=dark&perline=7" />
 
 <br>
-
-<!-- OS Badges -->
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
-</a>
-<a href="https://www.microsoft.com/windows" target="_blank">
-  <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://ubuntu.com/" target="_blank">
-  <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://www.kali.org/" target="_blank">
-  <img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://archlinux.org/" target="_blank">
-  <img src="https://img.shields.io/badge/ARCH_LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=000000" />
-</a>
 
 </div>
 
