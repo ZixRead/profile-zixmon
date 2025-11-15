@@ -154,7 +154,7 @@
 
 <!-- Floating Tech Animation -->
 <div align="center">
-  <img src="https://i.giphy.com/media/YPUh8SkoYuurwwV4YZ/giphy.gif" width="30%" />
+  <img src="807b5c4b02e765bb4930b7c66662ef4b.gif" width="30%" />
 </div>
 
 <br>
