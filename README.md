@@ -1,99 +1,105 @@
 <div align="center">
 
-# 👑 Welcome to ZixRead Universe 🌌  
-### ⚡ Developer • Creator • Automation Wizard ⚡
+# 🌙✨ Welcome to **ZixRead Dimension**  
+### 💫 Developer • Automation Creator • Anime Vibes
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=ZixRead+is+Booting...;Initializing+Hyper+Profile...;Loading+Modules...;Welcome+to+my+World!+🚀" />
+<img src="https://i.imgur.com/4AiXzf8.gif" width="45%" />
 
----
-
-## 🔥 Profile Status
-
-![Profile Views](https://komarev.com/ghpvc/?username=ZixRead&color=brightgreen&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ZixRead?style=for-the-badge&color=yellow)
-![Stars](https://img.shields.io/github/stars/ZixRead?style=for-the-badge&color=yellow)
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=00E8FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Universe...;ZixRead+is+Online!;Building+Automation...;Living+the+Anime+Life...;Let’s+Create+Something+Amazing+🚀💙" />
+</p>
 
 ---
 
-# 🎵 Now Playing on Spotify  
-<a href="https://spotify.com/user/YOUR_SPOTIFY_ID">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+# 🔥 Profile Stats  
+
+![Views](https://komarev.com/ghpvc/?username=ZixRead&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ZixRead?style=for-the-badge&color=ff66cc)
+![Stars](https://img.shields.io/github/stars/ZixRead?style=for-the-badge&color=ff99ff)
+
+---
+
+# 🎵 Now Playing: Olivia Rodrigo  
+(เพลงตัวอย่าง – เปลี่ยนเป็นเพลงที่คุณชอบได้)
+
+<a href="https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=compact&bar_color=e91e63&bar_color_cover=false" />
 </a>
 
----
-
-# 💫 About Me
-
-✨ ผมคือ **ZixRead** ผู้สร้างสรรค์โค้ดและระบบอัตโนมัติ ที่เชื่อว่า  
-"ถ้าคุณทำให้โค้ดฉลาดขึ้น… ชีวิตคุณก็ง่ายขึ้น"
-
-- 🔭 **ทำอะไรอยู่:** พัฒนา Lua Tools / Python Automations  
-- 🌱 **กำลังเรียนรู้:** ระบบความปลอดภัยขั้นสูง + AI Tools  
-- 🧠 **ความถนัด:** วิเคราะห์โค้ด, ปรับแต่งระบบ, ทำให้ทุกอย่างเร็วขึ้น  
-- ⚡ **ชอบทำ:** Automation | Data Tracking | Bot Development  
-- 💬 **ถามผมได้เรื่อง:** Lua, Python, JavaScript, API, Discord Bot  
+🎧 **Song:** *drivers license* — Olivia Rodrigo  
+💜 ใช้ได้จริง (Spotify link)  
 
 ---
 
-# 🛠️ Tech Arsenal (My Full Tech Stack)
+# 💫 About Me (ZixRead)
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=lua,python,js,ts,php,java,cpp,go,rust&perline=9" />
+> *“Code ไม่เคยหลอกใคร… ถ้าเจอ Bug ก็แก้มัน”* 🧩
 
-### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,github,git,cloudflare,aws,gcp,linux,docker,nginx&perline=9" />
-
-### 🎨 Web & UI
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap,figma&perline=9" />
-
-### 🤖 Automation & Bots
-<img src="https://skillicons.dev/icons?i=discord,githubactions,regex&perline=9" />
+- 🚀 **Developer ที่ชอบ Automation และ Tools**
+- 💡 ชอบสร้างของที่ "ลดเวลา + เพิ่มประสิทธิภาพ"
+- 🧠 พูดคุยได้เรื่อง: Lua, Python, JS, ระบบ Bot, API
+- 🌱 กำลังศึกษา: Security + AI Tools
+- 🎮 เวลาว่าง: ดู Anime, ฟังเพลง Olivia Rodrigo, เม้าส์โค้ด
 
 ---
 
-# 🏆 GitHub Achievements
+# 🛠️ My Tech Arsenal  
+> **อัปเกรดให้เยอะ + เท่ากว่าเดิม**
 
-<img src="https://github-profile-trophy.vercel.app/?username=ZixRead&theme=radical&no-frame=true&row=2&column=4" />
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=lua,python,js,ts,cpp,go,rust,java,php&perline=9" />
 
----
+### ⚙ Tools  
+<img src="https://skillicons.dev/icons?i=vscode,github,git,linux,docker,cloudflare,nginx&perline=9" />
 
-# 📊 GitHub Stats Center
+### 🌐 Web / UI  
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,figma&perline=9" />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixRead&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZixRead&theme=radical&hide_border=true" />
+### 🤖 Automation / Bots  
+<img src="https://skillicons.dev/icons?i=discord,regex,githubactions&perline=9" />
 
 ---
 
-# ⚡ Activity Feed
+# 🏆 GitHub Achievements  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZixRead&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ZixRead&theme=dracula&no-frame=true&row=2&column=4" />
 
 ---
 
-# 🌐 Connect with Me
+# 📊 GitHub Statistics  
+
+### 🔥 Main Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=ZixRead&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+### 🎨 Languages  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZixRead&layout=compact&theme=tokyonight&hide_border=true" />
+
+### 🔥 Streak  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZixRead&theme=tokyonight&hide_border=true" />
+
+---
+
+# 🌈 Activity Graph  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZixRead&theme=tokyonight&hide_border=true&area=true" />
+
+---
+
+# 🌐 Connect with Me  
 
 | Platform | Link |
 |---------|------|
 | Discord | `ZixRead#1234` |
-| Twitter | [@ZixReadDev](https://twitter.com/ZixReadDev) |
-| Email | `zixread.dev@example.com` |
+| Twitter | https://twitter.com/ZixReadDev |
+| Email | zixread.dev@example.com |
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUl7y3A5h5l305y2/giphy.gif" width="55%" />
+## 🎀 Bonus Anime GIF  
+<img src="https://i.imgur.com/IfQ3t6C.gif" width="45%" />
 
-<br><br>
+<br>
 
-# ✨ Thanks for Visiting My Profile!
+# ✨ Thanks for Visiting! ✨  
+### *May your code be clean and your bugs be few* 💙
 
 </div>
